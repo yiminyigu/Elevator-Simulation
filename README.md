@@ -7,7 +7,7 @@ This is a elevator-simulation project that focus on realness in terms of the mos
 
 For rendering, the project uses window.h console facilities. The elevators are drawn horizontally because we can have more spaces for each floor and thus to be more expressive. For each floor, ‘DN’ and ‘UP’ indicate the request buttons and the color indicates whether it is pressed or not. The number below indicates the number of people in line for that direction.
 
-<img src="/Elevator-Simulation/"
+<img src="snapshot.jpg" >
 
 ## Whole View
 The project includes three parts: 
